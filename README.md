@@ -4,7 +4,7 @@ If file exists the script will append the data else file will be created.
 
 arguments/flags:
 
--f      filename (no need to add .csv on the end)\n
+-f      filename (no need to add .csv on the end)
 -lat    latitude of your GPS Coordinates
 -lon    longitude of your GPS Coordinates
 
