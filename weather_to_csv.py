@@ -117,7 +117,6 @@ if __name__ == "__main__":
     
 
     p = params()
-    print(p)
 
     file_name = p["filename"]
     latitude = p["lat"]

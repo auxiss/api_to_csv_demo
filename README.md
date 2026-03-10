@@ -1,5 +1,5 @@
 # api_to_csv_demo
-This python script fetches for open-meteo.com and saves them to .csv file.
+This python script fetches data form open-meteo.com and saves them to .csv file.
 If file exists the script will append the data else file will be created.
 
 arguments/flags:
